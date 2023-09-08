@@ -1,0 +1,11 @@
+.formulario{
+    margin: 0;
+    padding: 0;
+    
+    justify-content: center;
+    align-items: center;
+     /* Esto asegura que el cuerpo de la página ocupe al menos el 100% del alto de la ventana del navegador */
+    background-color: #f0f0f0;
+    /* background-image: ; */
+   
+}
